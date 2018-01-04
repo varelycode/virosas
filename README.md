@@ -1,1 +1,1 @@
-Rudimentary personal website 
+Landing Page
